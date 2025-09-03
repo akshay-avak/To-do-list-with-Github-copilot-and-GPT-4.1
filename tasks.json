@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Learn python",
+    "description": "From youtube",
+    "due_date": "2025-9-05",
+    "status": "In-Progress"
+  },
+  {
+    "title": "Learn Power BI",
+    "description": "From MS learn",
+    "due_date": "2025-09-21",
+    "status": "Completed"
+  }
+]
